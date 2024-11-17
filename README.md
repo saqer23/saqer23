@@ -6,17 +6,17 @@
   
   <!-- Profile Views Counter -->
   <a href="https://github.com/saqer23">
-    <img src="https://komarev.com/ghpvc/?username=saqer23&label=Profile%20views&color=0e75b6&style=flat" alt="saqer23" />
+    <img src="https://komarev.com/ghpvc/?username=saqer23&label=Profile%20views&color=0e75b6&style=flat&cache_bust=20241117" alt="saqer23" />
   </a>
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/saqer23">
-    <img src="https://github-profile-trophy.vercel.app/?username=saqer23&row=1" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saqer23&row=1&cache_bust=20241117" alt="trophy" />
   </a>
   
   <!-- Twitter Badge -->
   <a href="https://twitter.com/s_jabri23">
-    <img src="https://img.shields.io/twitter/follow/s_jabri23?logo=twitter&style=for-the-badge" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/s_jabri23?logo=twitter&style=for-the-badge&cache_bust=20241117" alt="Twitter" />
   </a>
 </div>
 
@@ -27,8 +27,6 @@
 
 • **Phone:** +967 739 508 434  
 • **Email:** [aljabrisaqer23@gmail.com](mailto:aljabrisaqer23@gmail.com)
-
----
 
 **Profile**  
 Result-oriented web application developer with over three years of professional experience in both frontend and backend development. Proficient in all stages of web application design, coding, analysis, and testing. Skilled in planning and implementing online business ventures with a strong focus on teamwork and integrity.
