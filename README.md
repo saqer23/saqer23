@@ -6,28 +6,37 @@
   
   <!-- Profile Views Counter -->
   <a href="https://github.com/saqer23">
-    <img src="https://komarev.com/ghpvc/?username=saqer23&label=Profile%20views&color=0e75b6&style=flat&cache_bust=20241117" alt="saqer23" />
+    <img src="https://komarev.com/ghpvc/?username=saqer23&label=Profile%20views&color=0e75b6&style=flat" alt="saqer23" />
   </a>
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/saqer23">
-    <img src="https://github-profile-trophy.vercel.app/?username=saqer23&row=1&cache_bust=20241117" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saqer23&row=1" alt="trophy" />
   </a>
   
   <!-- Twitter Badge -->
   <a href="https://twitter.com/s_jabri23">
-    <img src="https://img.shields.io/twitter/follow/s_jabri23?logo=twitter&style=for-the-badge&cache_bust=20241117" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/s_jabri23?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
 </div>
+
+---
 
 <!-- About Me Section -->
 ## 🌟 About Me
 
-- 🔭 Currently working on **[Haraj UAE](https://harajuae.com)**
-- 🌱 Learning **React, Laravel**
-- 👨‍💻 Check out my projects on [asfaar.co](https://asfaar.co)
-- 💬 Ask me about **React, Laravel, Node.js, Express, Django, Vue.js**
-- 📫 Reach me at **aljabrisaqer@gmail.com**
+• **Phone:** +967 739 508 434  
+• **Email:** [aljabrisaqer23@gmail.com](mailto:aljabrisaqer23@gmail.com)
+
+---
+
+**Profile**  
+Result-oriented web application developer with over three years of professional experience in both frontend and backend development. Proficient in all stages of web application design, coding, analysis, and testing. Skilled in planning and implementing online business ventures with a strong focus on teamwork and integrity.
+
+**Objective**  
+To secure a challenging position as a backend developer where I can apply my expertise in ASP.NET Core, Node.js, and database management to contribute to the success of the organization while continuing to grow professionally.
+
+---
 
 <!-- Connect with Me Section -->
 ## 🔗 Connect with Me
@@ -42,72 +51,142 @@
   <!-- Add more social links if available -->
 </div>
 
-<!-- Skills Section -->
-## 🛠️ Skills & Technologies
+---
 
-### Frontend
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</div>
+<!-- Technical Skills Section -->
+## 🛠️ Technical Skills
 
-### Backend
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
-</div>
+### Programming Languages:
+• JavaScript, TypeScript, Python, PHP, C#, Perl, Bash Shell Scripting
 
-### Databases
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-</div>
+### Backend Frameworks:
+• Node.js (Express.js, NestJS)  
+• Django (Python)  
+• Laravel (PHP)  
+• .NET Framework (C#), ASP.NET Core
 
-### Tools & Platforms
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40"/>
-</div>
+### Databases:
+• **SQL:** MySQL, PostgreSQL, Microsoft SQL Server  
+• **NoSQL:** MongoDB (Mongoose)
 
-<!-- Featured Projects Section -->
-## 🚀 Featured Projects
+### Tools & Technologies:
+• Git, MVC, MVC-API  
+• RESTful Web Services  
+• Linux Commands and Tools  
+• Regular Expressions  
+• Progressive Web Apps (PWA)  
+• Electron  
+• Express.js  
+• Agile and Waterfall Methodologies
 
-### [Haraj UAE](https://harajuae.com)
-**Description:** A comprehensive platform facilitating online classifieds in the UAE. Built with **React** and **Laravel**, it offers seamless user experience and robust backend support.
+### Other Skills:
+• Online Business Development and Strategy
 
-- 🛠 **Technologies:** React, Laravel, MySQL, AWS
-- 🌐 **Live Demo:** [harajuae.com](https://harajuae.com)
-- 🔗 **Repository:** [GitHub](https://github.com/saqer23/haraj-uae)
+---
 
-### [Asfaar Portfolio](https://asfaar.co)
-**Description:** A personal portfolio website showcasing projects, skills, and contact information. Developed using **Vue.js** and **Vuetify** for a responsive and modern design.
+<!-- Education Section -->
+## 🎓 Education
 
-- 🛠 **Technologies:** Vue.js, Vuetify, Node.js, Express
-- 🌐 **Live Demo:** [asfaar.co](https://asfaar.co)
-- 🔗 **Repository:** [GitHub](https://github.com/saqer23/asfaar-portfolio)
+**Bachelor of Computer Science**, Hadramout University (2018 - 2022)  
+• **Graduation Project:**  
+  - Developed an electronic platform connecting university faculty, staff, and students.  
+  - **Technologies Used:** Python (Django for backend), Vue.js (frontend), Flutter (mobile application).
 
-<!-- Add more projects as needed -->
+---
+
+<!-- Languages Section -->
+## 🌐 Languages
+
+• **Arabic:** Native  
+• **English:** Proficient
+
+---
+
+<!-- Professional Experience Section -->
+## 💼 Professional Experience
+
+### **Aljazeerh Soft**, Backend Developer (2021 - 2024)
+• **Backend Development:**  
+  - Worked extensively with ASP.NET Core to develop backend functionalities.  
+  - Implemented key features in the ERP system, focusing on reports, accounting modules, and financial bounds.
+
+• **Frontend Integration:**  
+  - Occasionally developed frontend components using React to facilitate seamless integration between backend and frontend.
+
+• **Collaboration:**  
+  - Collaborated with cross-functional teams to integrate accounting functionalities with other ERP modules.
+
+• **Technologies Used:** ASP.NET Core, React, Node.js (Express.js), TypeScript, MongoDB (Mongoose), RESTful APIs.
+
+• **Achievements:**  
+  - Improved the efficiency of accounting processes by 30% through automation.  
+  - Designed and implemented comprehensive financial reports that facilitated better decision-making.
+
+### **Novel Co**, Web Application Developer (2020 - 2021)
+• Developed web applications focusing on robust backend solutions and interactive interfaces.  
+• Participated in the full software development lifecycle, from requirements gathering to deployment.
+
+• **Technologies Used:** Python (Django), Vue.js, PostgreSQL.
+
+• **Achievements:**  
+  - Successfully delivered projects within tight deadlines, enhancing client satisfaction.  
+  - Implemented security features that reduced vulnerabilities by 25%.
+
+---
+
+<!-- Projects Section -->
+## 🚀 Projects
+
+### 1. **HR System**
+• **Role:** Backend Developer  
+• **Technologies:** Laravel (PHP)  
+• **Description:** Worked on all aspects of the HR system, developing backend functionalities to manage employee data, payroll, attendance, and performance evaluations.
+
+### 2. **Enterprise Resource Planning (ERP) System**
+• **Role:** Backend Developer  
+• **Technologies:** ASP.NET Core  
+• **Description:** Contributed to reports, accounting modules, and financial bounds within the ERP system to enhance functionality and efficiency.
+
+### 3. **Interactive Online Clothing Store**
+• **Role:** Full Stack Developer  
+• **Technologies:** Python (Django), Vue.js  
+• **Description:** Developed a user-friendly platform for online clothing sales with interactive features.
+
+### 4. **Hotel Management System**
+• **Role:** Systems Analyst and Database Developer  
+• **Technologies:** C#, SQL Server  
+• **Description:** Conducted system analysis using the Waterfall methodology; designed and implemented the database schema.
+
+### 5. **Accounting Administrative System**
+• **Role:** Systems Analyst and Database Developer  
+• **Technologies:** C#, SQL Server  
+• **Description:** Performed comprehensive system analysis and database design for an accounting system using the Waterfall approach.
+
+### 6. **Delivery and Ride-Sharing Platform**
+• **Role:** Backend Developer and Mobile App Developer  
+• **Technologies:** Python (Django), Nuxt.js, Progressive Web App (PWA)  
+• **Description:** Created a platform for order delivery, taxi services, and intercity trip organization; developed a PWA for seamless mobile access.
+
+### 7. **Humanitarian Organizations Directory**
+• **Role:** Developer  
+• **Description:** Developed a project for the Ministry of Social Affairs to list and manage humanitarian organizations within Yemen.
+
+### 8. **E-commerce Application for Central Africa**
+• **Role:** Systems Analyst and Backend Developer  
+• **Technologies:** Node.js (Express.js), JavaScript, Flutter, MongoDB (Mongoose)  
+• **Description:** Analyzed and developed an e-commerce application connected with the '2Checkout' payment gateway; responsible for database design and backend development; created a mobile app using Flutter.
+
+### 9. **UAE Haraj Marketplace**
+• **Role:** Systems Analyst and Backend Developer  
+• **Technologies:** Node.js (Express.js), JavaScript, Nuxt.js, MongoDB (Mongoose)  
+• **Description:** Developed an online marketplace for new and used products in the UAE; managed system analysis, backend development, and database implementation.
+
+### 10. **Utility Bills Payment System**
+• **Role:** Systems Analyst, Backend Developer, Frontend Developer  
+• **Technologies:** Node.js (Express.js with TypeScript), Vue.js, MongoDB (Mongoose)  
+• **Description:** Created a system for paying utility bills (electricity, water, communication) in Yemen; integrated with national systems for bill access and payment processing; involved in system analysis and full-stack development.
+
+---
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Statistics
@@ -123,12 +202,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqer23&theme=dracula&hide_border=true&cache_bust=20241117" alt="GitHub Streak" />
 </div>
 
+---
+
 <!-- Footer Section -->
 ## 📫 Get in Touch
 
 <div align="center">
-  <a href="mailto:aljabrisaqer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aljabrisaqer@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&cache_bust=20241117" alt="Email" />
+  <a href="mailto:aljabrisaqer23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aljabrisaqer23@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&cache_bust=20241117" alt="Email" />
   </a>
   <a href="https://asfaar.co">
     <img src="https://img.shields.io/badge/Website-asfaar.co-blue?style=for-the-badge&logo=google-chrome&logoColor=white&cache_bust=20241117" alt="Website" />
