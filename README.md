@@ -4,12 +4,17 @@
   <h1>Hi 👋, I'm Saqer Aljabri</h1>
   <h3>A Passionate Full-Stack Developer from Yemen</h3>
   
+  <!-- Profile Views Counter -->
   <a href="https://github.com/saqer23">
     <img src="https://komarev.com/ghpvc/?username=saqer23&label=Profile%20views&color=0e75b6&style=flat" alt="saqer23" />
   </a>
+  
+  <!-- GitHub Trophies -->
   <a href="https://github.com/saqer23">
     <img src="https://github-profile-trophy.vercel.app/?username=saqer23&row=1" alt="trophy" />
   </a>
+  
+  <!-- Twitter Badge -->
   <a href="https://twitter.com/s_jabri23">
     <img src="https://img.shields.io/twitter/follow/s_jabri23?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
@@ -108,9 +113,14 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saqer23&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqer23&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqer23&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=saqer23&show_icons=true&theme=dracula&hide_border=true&cache_bust=20241117" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqer23&layout=compact&theme=dracula&hide_border=true&cache_bust=20241117" alt="Top Languages" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqer23&theme=dracula&hide_border=true&cache_bust=20241117" alt="GitHub Streak" />
 </div>
 
 <!-- Footer Section -->
