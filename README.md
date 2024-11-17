@@ -6,17 +6,17 @@
   
   <!-- Profile Views Counter -->
   <a href="https://github.com/saqer23">
-    <img src="https://komarev.com/ghpvc/?username=saqer23&label=Profile%20views&color=0e75b6&style=flat" alt="saqer23" />
+    <img src="https://komarev.com/ghpvc/?username=saqer23&label=Profile%20views&color=0e75b6&style=flat&cache_bust=20241117" alt="saqer23" />
   </a>
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/saqer23">
-    <img src="https://github-profile-trophy.vercel.app/?username=saqer23&row=1" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saqer23&row=1&cache_bust=20241117" alt="trophy" />
   </a>
   
   <!-- Twitter Badge -->
   <a href="https://twitter.com/s_jabri23">
-    <img src="https://img.shields.io/twitter/follow/s_jabri23?logo=twitter&style=for-the-badge" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/s_jabri23?logo=twitter&style=for-the-badge&cache_bust=20241117" alt="Twitter" />
   </a>
 </div>
 
@@ -128,12 +128,12 @@
 
 <div align="center">
   <a href="mailto:aljabrisaqer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aljabrisaqer@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-aljabrisaqer@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&cache_bust=20241117" alt="Email" />
   </a>
   <a href="https://asfaar.co">
-    <img src="https://img.shields.io/badge/Website-asfaar.co-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-asfaar.co-blue?style=for-the-badge&logo=google-chrome&logoColor=white&cache_bust=20241117" alt="Website" />
   </a>
   <a href="https://twitter.com/s_jabri23">
-    <img src="https://img.shields.io/badge/Twitter-@s_jabri23-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-@s_jabri23-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&cache_bust=20241117" alt="Twitter" />
   </a>
 </div>
